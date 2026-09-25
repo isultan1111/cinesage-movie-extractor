@@ -1,3 +1,6 @@
 langchain
 langchain-nvidia-ai-endpoints
+streamlit
+langchain-groq
 python-dotenv
+pydantic
