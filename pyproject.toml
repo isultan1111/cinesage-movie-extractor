@@ -1,0 +1,6 @@
+[project]
+name = "cinesage"
+version = "0.1.0"
+description = "AI-powered movie information extractor"
+requires-python = ">=3.11"
+dependencies = []
